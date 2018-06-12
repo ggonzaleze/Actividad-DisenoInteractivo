@@ -1,2 +1,2 @@
 # Actividad-dise-o
-Actividad para mi clase de diseño interactivo.
+Activity for my interactive design class.
